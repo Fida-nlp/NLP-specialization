@@ -39,9 +39,3 @@ This repository includes the following notable projects and assignments:
    - Implemented a model to identify and classify entities in text.
 
 Each directory contains the code, datasets, and detailed instructions to replicate the projects.
-
-## How to Use This Repository
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/nlp-specialization.git
