@@ -1,7 +1,5 @@
 # Natural Language Processing (NLP) Specialization
 
-![Certificate](Coursera YQTJMSQEQCR3.pdf)
-
 ## Overview
 
 Welcome to my repository showcasing my journey through the **Natural Language Processing (NLP) Specialization** offered by [deeplearning.ai](https://www.deeplearning.ai/). This specialization, available on Coursera, provides comprehensive training in NLP, covering essential topics such as sentiment analysis, machine translation, named entity recognition, and attention models.
@@ -39,13 +37,6 @@ This repository includes the following notable projects and assignments:
 
 4. **Named Entity Recognition (NER)**
    - Implemented a model to identify and classify entities in text.
-
-## Repository Structure
-
-- **Sentiment Analysis:** `sentiment_analysis/`
-- **Machine Translation:** `machine_translation/`
-- **Text Generation:** `text_generation/`
-- **Named Entity Recognition:** `ner/`
 
 Each directory contains the code, datasets, and detailed instructions to replicate the projects.
 
