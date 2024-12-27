@@ -1,6 +1,6 @@
 # Natural Language Processing (NLP) Specialization
 
-![Certificate](path/to/your/certificate/image.png)
+![Certificate](Coursera YQTJMSQEQCR3.pdf)
 
 ## Overview
 
